@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SaiyanBot2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Username" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">saiyanbot</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</Value>
+    </Setting>
+    <Setting Name="Channel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">natsuma_z</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,6 @@
+C:\Users\Dylan\AppData\Local\Temporary Projects\SaiyanBot2\bin\Release\SaiyanBot2.exe
+C:\Users\Dylan\AppData\Local\Temporary Projects\SaiyanBot2\bin\Release\SaiyanBot2.pdb
+C:\Users\Dylan\AppData\Local\Temporary Projects\SaiyanBot2\bin\Release\EasyIRC.dll
+C:\Users\Dylan\AppData\Local\Temporary Projects\SaiyanBot2\bin\Release\EasyIRC.pdb
+C:\Users\Dylan\AppData\Local\Temporary Projects\SaiyanBot2\obj\x86\Release\SaiyanBot2.exe
+C:\Users\Dylan\AppData\Local\Temporary Projects\SaiyanBot2\obj\x86\Release\SaiyanBot2.pdb

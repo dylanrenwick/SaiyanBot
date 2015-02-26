@@ -1,0 +1,13 @@
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\obj\x86\Release\SaiyanBot.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\bin\Release\SaiyanBot.exe
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\bin\Release\SaiyanBot.pdb
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\bin\Release\EasyIRC.dll
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\bin\Release\System.Data.SQLite.dll
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\bin\Release\EasyIRC.pdb
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\bin\Release\System.Data.SQLite.xml
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\obj\x86\Release\SaiyanBot.exe
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\obj\x86\Release\SaiyanBot.pdb
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\bin\Release\GunnerWolfLib.dll
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot2\SaiyanBot2\bin\Release\SaiyanBot.exe
+C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot2\SaiyanBot2\bin\Release\SaiyanBot.pdb
