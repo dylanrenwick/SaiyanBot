@@ -49,9 +49,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EasyIRC">
-      <HintPath>..\References\EasyIRC.dll</HintPath>
-    </Reference>
     <Reference Include="GunnerWolfLib">
       <HintPath>..\References\GunnerWolfLib.dll</HintPath>
     </Reference>
@@ -110,6 +107,12 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Visual Studio 2013\Projects\Twitch Plays\EasyIRC\EasyIRC.csproj">
+      <Project>{34c99d04-516c-4070-b485-89dd3b5bc302}</Project>
+      <Name>EasyIRC</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

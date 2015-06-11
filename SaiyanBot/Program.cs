@@ -236,6 +236,13 @@ namespace SaiyanBot2
                         }
                     }
                 }
+                //Send message to IRC
+                else if (input.ToLower().StartsWith("say "))
+                {
+                    Write(string.Format("##Sending {0} to twitch", input.Substring(4)));
+                    Send(input.Substring(4));
+                    continue;
+                }
                 //Save and quit
                 else if (input.ToLower() == "quit")
                 {
@@ -1107,6 +1114,9 @@ namespace SaiyanBot2
         //Create SQLite database
         private static void CreateDB()
         {
+            if (!Directory.Exists(dirPath))
+                Directory.CreateDirectory(dirPath);
+
             SQLiteConnection.CreateFile(dirPath + "\\Save.sqlite");
 
             using (var db = new SQLiteConnection(string.Format("Data Source={0}; Version=3", dirPath + "\\Save.sqlite")))

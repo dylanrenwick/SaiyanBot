@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaiyanBot", "SaiyanBot\SaiyanBot.csproj", "{5DE197B0-80EA-4CEE-901F-1301C4FA340F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyIRC", "..\..\Visual Studio 2013\Projects\Twitch Plays\EasyIRC\EasyIRC.csproj", "{34C99D04-516C-4070-B485-89DD3B5BC302}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,16 @@ Global
 		{5DE197B0-80EA-4CEE-901F-1301C4FA340F}.Release|Mixed Platforms.Build.0 = Release|x86
 		{5DE197B0-80EA-4CEE-901F-1301C4FA340F}.Release|x86.ActiveCfg = Release|x86
 		{5DE197B0-80EA-4CEE-901F-1301C4FA340F}.Release|x86.Build.0 = Release|x86
+		{34C99D04-516C-4070-B485-89DD3B5BC302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C99D04-516C-4070-B485-89DD3B5BC302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C99D04-516C-4070-B485-89DD3B5BC302}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{34C99D04-516C-4070-B485-89DD3B5BC302}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{34C99D04-516C-4070-B485-89DD3B5BC302}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{34C99D04-516C-4070-B485-89DD3B5BC302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C99D04-516C-4070-B485-89DD3B5BC302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C99D04-516C-4070-B485-89DD3B5BC302}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{34C99D04-516C-4070-B485-89DD3B5BC302}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{34C99D04-516C-4070-B485-89DD3B5BC302}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
