@@ -5,11 +5,11 @@
     <Setting Name="Username" Type="System.String" Scope="Application">
       <Value Profile="(Default)">saiyanbot</Value>
     </Setting>
-    <Setting Name="Password" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</Value>
-    </Setting>
     <Setting Name="Channel" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">natsuma_z</Value>
+      <Value Profile="(Default)">dusk_shade</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">oauth:vqthrzvh6vfw34vnf0qvq5o8lmkx43</Value>
     </Setting>
   </Settings>
 </SettingsFile>

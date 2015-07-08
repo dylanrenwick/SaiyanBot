@@ -12,7 +12,7 @@ namespace SaiyanBot2.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "10.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "12.0.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -34,19 +34,19 @@ namespace SaiyanBot2.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("oauth:vd334pq8kp8yqipc0oelxqe8ejkwrq")]
-        public string Password {
+        [global::System.Configuration.DefaultSettingValueAttribute("dusk_shade")]
+        public string Channel {
             get {
-                return ((string)(this["Password"]));
+                return ((string)(this["Channel"]));
             }
         }
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("natsuma_z")]
-        public string Channel {
+        [global::System.Configuration.DefaultSettingValueAttribute("oauth:vqthrzvh6vfw34vnf0qvq5o8lmkx43")]
+        public string Password {
             get {
-                return ((string)(this["Channel"]));
+                return ((string)(this["Password"]));
             }
         }
     }

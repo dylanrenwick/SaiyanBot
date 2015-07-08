@@ -11,3 +11,12 @@ C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\bin\Deb
 C:\Users\Dylan\documents\visual studio 2010\Projects\SaiyanBot\SaiyanBot\bin\Debug\GunnerWolfLib.dll
 C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\obj\x86\Debug\SaiyanBot.exe
 C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\obj\x86\Debug\SaiyanBot.pdb
+C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\bin\Debug\SaiyanBot.exe.config
+C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\obj\x86\Debug\SaiyanBot.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\bin\Debug\SaiyanBot.exe
+C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\bin\Debug\SaiyanBot.pdb
+C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\bin\Debug\EasyIRC.dll
+C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\bin\Debug\GunnerWolfLib.dll
+C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dylan\Documents\GitHub\SaiyanBot\SaiyanBot\bin\Debug\EasyIRC.pdb
